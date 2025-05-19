@@ -1,8 +1,8 @@
-# Ethio Perfume Shop - README
+#  Perfume Shop - README
 
 ## Project Overview
 
-This repository contains the UI designs for Ethio Perfume Shop, an e-commerce platform specializing in luxury fragrances. Below are explanations of each page with embedded images.
+This repository contains the UI designs for  Perfume Shop, an e-commerce platform specializing in luxury fragrances. Below are explanations of each page with embedded images.
 
 ## Pages
 
