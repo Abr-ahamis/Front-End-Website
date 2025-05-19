@@ -11,7 +11,7 @@ Here, I showcase three websites I’ve built to practice my web development skil
 🖥️ Description:  
 _This repository contains the UI designs for  Perfume Shop, an e-commerce platform specializing in luxury fragrances. Below are explanations of each page with embedded images._
 
-🎬 [Watch the video preview](/img/2025-05-18 14-37-59.mp4)
+🎬 [Watch the video preview](img/2025-05-18%2014-37-59.mp4)
 
 ---
 
